@@ -19,3 +19,9 @@ _Checkout, **tela de produto**, tela principal, Home com Banner_
 - JS
 - MYSQL
 - PHP
+
+### Funcionalidades a desenvolver
+
+1. Área de membros
+2. Integração com outros pagamentos
+3. Exibir as formas de pagamento
