@@ -23,5 +23,8 @@ _Checkout, **tela de produto**, tela principal, Home com Banner_
 ### Funcionalidades a desenvolver
 
 1. Área de membros
+   1. Login diferente grupos
+   2. Desconto especial para tipos de clientes
+   3. CSS diferente para cada membro
 2. Integração com outros pagamentos
 3. Exibir as formas de pagamento
