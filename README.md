@@ -39,4 +39,4 @@ _Checkout, **tela de produto**, tela principal, Home com Banner_
 
 ## Links Interessantes
 
-[Google](https://.google.com)
+[Google](https://www.google.com/?hl=pt_BR)
