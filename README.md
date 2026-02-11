@@ -44,3 +44,5 @@ _Checkout, **tela de produto**, tela principal, Home com Banner_
 [Udemy](https://www.udemy.com/topic/quitting-smoking/?utm_campaign=MX_FF-CONV_BR_Search-Brand_Topic_la.PT_Google&utm_source=google&utm_medium=paid-search&portfolio=BrandTopic&utm_audience=mx&utm_tactic=brand&utm_term=como%20udemy&utm_content=g&funnel=Conversion&test=&gad_source=1&gad_campaignid=11849977820&gbraid=0AAAAADROdO1Kfi0SgrfurKbaLTCYtdz0o&gclid=Cj0KCQiA7rDMBhCjARIsAGDBuEAuzU2j_vr_UgzfCESY7yBnPwG-nfNJfyn-j_IyRZPGbk-jH7ZyO4EaAiu7EALw_wcB)
 
 Contribuidor Principal: https://www.github.com/jotas653
+
+[![Logo do JS](https://br.freepik.com/vetores-gratis/modelo-de-design-de-logotipo-js_47684950.htm#fromView=keyword&page=1&position=0&uuid=83a1a89c-3983-4a49-b51b-ca282df6d4c4&query=Logo+js)(https://www.github.com/jotas653)]
