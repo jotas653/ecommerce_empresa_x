@@ -62,3 +62,10 @@ soma(2, 5);
 - [ ] Integração com outros pagamentos
 - [ ] Sistema de bônus
 - [ x] CSS do rodapé
+
+## Tarefas não concluidas
+
+- [x] Área de membros
+- [ ] Integração com outros pagamentos
+- [ ] Sistema de bônus
+- [x] CSS do rodapé
