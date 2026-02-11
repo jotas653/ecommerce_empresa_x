@@ -31,4 +31,4 @@ _Checkout, **tela de produto**, tela principal, Home com Banner_
 
 ### Imagem Local
 
-![Logo da Imagem](img/971.png)
+![Logo da Imagem](../img/971.png)
