@@ -11,3 +11,11 @@ _Checkout, **tela de produto**, tela principal, Home com Banner_
 ###### Melhorias do projeto
 
 **Melhoria 1** , _Melhoria 2_
+
+### Linguaguens que existem no projeto
+
+- HTML
+- CSS
+- JS
+- MYSQL
+- PHP
