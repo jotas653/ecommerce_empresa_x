@@ -28,3 +28,7 @@ _Checkout, **tela de produto**, tela principal, Home com Banner_
    3. CSS diferente para cada membro
 2. Integração com outros pagamentos
 3. Exibir as formas de pagamento
+
+### Imagem Local
+
+![Logo da Imagem](img/971.png)
