@@ -46,3 +46,19 @@ _Checkout, **tela de produto**, tela principal, Home com Banner_
 Contribuidor Principal: https://www.github.com/jotas653
 
 [![Logo do JS](https://br.freepik.com/vetores-gratis/modelo-de-design-de-logotipo-js_47684950.htm#fromView=keyword&page=1&position=0&uuid=83a1a89c-3983-4a49-b51b-ca282df6d4c4&query=Logo+js)(https://www.github.com/jotas653)]
+
+## Código da Função soma
+
+```javascript
+function soma(x, y) {
+  return x + y;
+}
+soma(2, 5);
+```
+
+## Lista de tarefas a fazer:
+
+- [ x ] Área de membros
+- [ ] Integração com outros pagamentos
+- [ ] Sistema de bônus
+- [ x] CSS do rodapé
