@@ -32,3 +32,7 @@ _Checkout, **tela de produto**, tela principal, Home com Banner_
 ### Imagem Local
 
 ![Logo da Imagem](../img/971.png)
+
+### Imagem Externa
+
+![Logo do JS](https://br.freepik.com/vetores-gratis/modelo-de-design-de-logotipo-js_47684950.htm#fromView=keyword&page=1&position=0&uuid=83a1a89c-3983-4a49-b51b-ca282df6d4c4&query=Logo+js)
